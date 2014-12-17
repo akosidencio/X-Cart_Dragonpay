@@ -25,13 +25,6 @@ Installations
 - Upload or copy those file and folder into your X-Cart root folder
 
  
-Reminder
--------------
-Please use below url for return url
-
-http://www.your-site.com/payment/cc_molpay_process.php
-
-Replace www.your-site.com with your own xcart URL
 
 
 
